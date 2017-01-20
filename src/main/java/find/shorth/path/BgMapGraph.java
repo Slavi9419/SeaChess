@@ -7,9 +7,11 @@ public class BgMapGraph {
 	public String[] towns = { "Sofia", "Plovdiv", "Varna", "Burgas","Veliko Tarnovo"};
 
 	public BgMapGraph() {
+		
 		for (int i = 0; i < towns.length; i++) {
 			myGrapht.addVertex(towns[i]);
 		}
+		
 		addEdges();
 	}
 
