@@ -1,0 +1,14 @@
+MOSCOW,StPetersburg,713.10
+MOSCOW,NizhnyNovogorod,416.92
+MOSCOW,Volgograd,969.32
+MOSCOW,Arkhangel'sk,1018.62
+StPetersburg,Arkhangel'sk,1205.64
+Volgograd,NizhnyNovogorod,987.83
+NizhnyNovogorod,Arkhangel'sk,119.33
+NizhnyNovogorod,Yekaterininburg,1332.57
+Arkhangel'sk,Yekaterininburg,1749.91
+Yekaterininburg,Omsk,947.75
+Omsk,Novosibirsk,655.37
+Novosibirsk,Krasnoyarsk,794.23
+Krasnoyarsk,Irkutsk,1342.75
+Irkutsk,Khabarovsk,3124.57

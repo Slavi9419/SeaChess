@@ -1,0 +1,12 @@
+Berlin,920,260
+Stuttgart,670,650
+Munchen,760,710
+Hanover,650,280
+Hamburg,730,155
+Bremen,675,205
+Dresden,890,415
+Frankfurt,660,490
+Dusseldorf,545,380
+Cologne,550,415
+Sylt,620,45
+Freiburg,525,720

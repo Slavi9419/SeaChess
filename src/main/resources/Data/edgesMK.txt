@@ -1,0 +1,13 @@
+SKOPJE,Kumanovo,40.37
+SKOPJE,Tetovo,42.94
+SKOPJE,Veles,55.14
+Kumanovo,Stip,69.21
+Tetovo,Gostivar,23.96
+Gostivar,Kicevo,45.82
+Veles,Stip,44.11
+Veles,Prilep,63.72
+Stip,Strumica,66.44
+Strumica,Prilep,141.75
+Kicevo,Prilep,66.94
+Kicevo,Bitola,79.28
+Bitola,Prilep,43.55

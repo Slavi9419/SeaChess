@@ -1,0 +1,10 @@
+SKOPJE,621,200
+Tetovo,288,189
+Kumanovo,780,133
+Stip,1046,334
+Gostivar,315,321
+Veles,755,345
+Kicevo,343,456
+Prilep,676,547
+Strumica,1242,482
+Bitola,558,705

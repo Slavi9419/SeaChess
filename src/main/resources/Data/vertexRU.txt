@@ -1,0 +1,11 @@
+MOSCOW,114,459
+StPetersburg,145,357
+Novosibirsk,610,665
+Yekaterininburg,410,565
+Omsk,505,650
+Khabarovsk,1366,615
+Volgograd,150,609
+NizhnyNovogorod,246,503
+Krasnoyarsk,792,656
+Irkutsk,898,703
+Arkhangel'sk,324,371
